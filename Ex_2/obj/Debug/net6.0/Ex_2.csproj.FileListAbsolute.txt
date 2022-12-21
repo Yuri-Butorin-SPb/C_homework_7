@@ -1,0 +1,15 @@
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\bin\Debug\net6.0\Ex_2.exe
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\bin\Debug\net6.0\Ex_2.deps.json
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\bin\Debug\net6.0\Ex_2.runtimeconfig.json
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\bin\Debug\net6.0\Ex_2.dll
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\bin\Debug\net6.0\Ex_2.pdb
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.csproj.AssemblyReference.cache
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfoInputs.cache
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfo.cs
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.dll
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\refint\Ex_2.dll
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.pdb
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\Ex_2.genruntimeconfig.cache
+D:\GeekBrains ДЗ\C_homework_7\Ex_2\obj\Debug\net6.0\ref\Ex_2.dll

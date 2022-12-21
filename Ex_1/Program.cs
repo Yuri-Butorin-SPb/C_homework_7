@@ -18,17 +18,6 @@ int n = int.Parse(Console.ReadLine());
 double[,] array = Create2DArray(m,n);
 Print2DArray(array);
 
-// try
-// {
-//     int m = ReadInt("Введите m");
-//     int n = ReadInt("Введите n");
-//     double[,] array = Create2DArray(m,n);
-//     Print2DArray(array);
-// }
-// catch(Exception ex)
-// {
-//     Console.WriteLine(ex.Message);
-// }
 
 void Print2DArray(double[,] array)
 {
@@ -59,17 +48,3 @@ double[,] Create2DArray(int m, int n)
 
     return array;
 }
-
-// int ReadInt(string title)
-// {
-//     Console.WriteLine(title);
-
-//     bool isParsed = int.TryParse(Console.ReadLine(), out double number);
-
-//     if (isParsed)
-//     {
-//         return number;
-//     }
-    
-//     throw new Exception("Введены не корректные символы");
-// }
